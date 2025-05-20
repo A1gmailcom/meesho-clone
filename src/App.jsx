@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
 import Navbar from "./Components/Navbar";
 import CategoryCarousel from "./Components/CategoryCarousel";
-import ProductsGrid from "./Components/ProductsGrid";
+import ProductsGrid from "./Components/Productsgrid";
 import ShoppingCart from "./Components/ShoppingCart";
 import CheckoutModal from "./Components/CheckoutModal";
 import "./Styles/main.css";
