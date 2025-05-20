@@ -1,11 +1,11 @@
 // App.js
 import React, { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
-import Navbar from "./components/Navbar";
-import CategoryCarousel from "./components/CategoryCarousel";
-import ProductsGrid from "./components/ProductsGrid";
-import ShoppingCart from "./components/ShoppingCart";
-import CheckoutModal from "./components/CheckoutModal";
+import Navbar from "./Components/Navbar";
+import CategoryCarousel from "./Components/CategoryCarousel";
+import ProductsGrid from "./Components/ProductsGrid";
+import ShoppingCart from "./Components/ShoppingCart";
+import CheckoutModal from "./Components/CheckoutModal";
 import "./Styles/main.css";
 import "./Styles/responsive.css";
 
